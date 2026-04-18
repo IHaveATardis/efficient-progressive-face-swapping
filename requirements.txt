@@ -108,7 +108,7 @@ tomli==2.3.0
 torch==2.6.0+cu124
 torchaudio==2.5.1
 torchvision==0.21.0+cu124
-tornado==6.5.2
+tornado==6.5.5
 tqdm==4.67.1
 traitlets==5.14.3
 transformers==4.53.3
