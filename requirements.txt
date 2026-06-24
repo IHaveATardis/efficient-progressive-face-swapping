@@ -63,7 +63,7 @@ networkx==3.4.2
 numba==0.63.1
 numpy==2.2.6
 omegaconf==2.0.0
-onnx==1.20.0
+onnx==1.21.0
 onnxruntime-gpu==1.22.0
 openai-clip==1.0.1
 opencv-python==4.11.0.86
